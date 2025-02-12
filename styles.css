@@ -83,12 +83,12 @@ ul li a {
   font-weight: 600;
   color: var(--text-dark);
   transition: 0.3s;
+  border-radius: 30%;
 }
 
 
 nav ul li a:hover {
-  border-top-color: yellow;
-  border-bottom-color: yellow;
+  border-color: yellow;
   color: yellow;
 }
 
